@@ -1,0 +1,2 @@
+class StaticPagePolicy < PagePolicy
+end
